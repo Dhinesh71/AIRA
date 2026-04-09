@@ -20,7 +20,7 @@ android {
             useSupportLibrary = true
         }
 
-        buildConfigField("String", "AIRA_API_BASE_URL", "\"http://10.0.2.2:3000/\"")
+        buildConfigField("String", "AIRA_API_BASE_URL", "\"https://aira-backend-d271.onrender.com/\"")
         buildConfigField("String", "TASKER_BROADCAST_ACTION", "\"com.aira.app.TASKER_TRIGGER\"")
     }
 
