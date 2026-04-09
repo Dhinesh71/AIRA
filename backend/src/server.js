@@ -18,6 +18,10 @@ app.use(helmet());
 app.use(cors());
 app.use(express.json({ limit: "1mb" }));
 
+app.get("/", (_request, response) => {
+  response.send("<h1>Aira Backend is Running</h1><p>Visit <a href='/health'>/health</a> for status.</p>");
+});
+
 app.get("/health", (_request, response) => {
   response.json({
     ok: true,
