@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_top">#EFF7FF</color>
+    <color name="background_bottom">#D8EAF6</color>
+    <color name="surface_card">#F9FBFE</color>
+    <color name="surface_outline">#C6D7E5</color>
+    <color name="accent_primary">#1377E5</color>
+    <color name="accent_secondary">#18B7A0</color>
+    <color name="text_primary">#0E1A2A</color>
+    <color name="text_secondary">#42546A</color>
+    <color name="text_muted">#6C8197</color>
+    <color name="status_success">#12735B</color>
+    <color name="status_error">#B3261E</color>
+    <color name="status_warning">#A56000</color>
+    <color name="status_active">#0C63E7</color>
+    <color name="status_neutral">#4A6178</color>
+</resources>
+

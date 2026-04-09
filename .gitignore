@@ -1,0 +1,19 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+/build/
+/captures/
+/.cxx/
+.DS_Store
+Thumbs.db
+
+# Android
+app/build/
+
+# Node
+backend/node_modules/
+backend/.env
+backend/.env.local
+backend/dist/
+

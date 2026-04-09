@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aira</string>
+    <string name="dashboard_subtitle">AI-powered mobile control assistant</string>
+    <string name="status_ready">Ready</string>
+    <string name="status_body_default">Turn on accessibility, then use the mic to let Aira execute tasks.</string>
+    <string name="last_transcript_label">Last transcript</string>
+    <string name="last_transcript_placeholder">No transcript yet. Tap the mic to try a command.</string>
+    <string name="tap_to_speak">Tap to Speak</string>
+    <string name="stop_listening">Stop Listening</string>
+    <string name="start_hotword_mode">Start Hotword Mode</string>
+    <string name="continuous_listening_title">Continuous listening</string>
+    <string name="continuous_listening_body">Keeps speech recognition active and waits for “Hey Aira”.</string>
+    <string name="system_readiness">System readiness</string>
+    <string name="enable_accessibility">Enable Accessibility</string>
+    <string name="enable_overlay">Enable Overlay</string>
+    <string name="ignore_battery_optimization">Ignore Battery</string>
+    <string name="accessibility_ready">Accessibility Ready</string>
+    <string name="overlay_ready">Overlay Ready</string>
+    <string name="battery_ready">Battery Ready</string>
+    <string name="shortcut_suggestions">Suggested shortcuts</string>
+    <string name="suggestions_placeholder">Suggestions will appear after a few commands.</string>
+    <string name="recent_commands">Recent commands</string>
+    <string name="confirm_action_title">Confirm action</string>
+    <string name="confirm_action_message">%1$s\n\n%2$s</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="accessibility_service_label">Aira Device Control</string>
+    <string name="accessibility_service_description">Allows Aira to inspect the screen and perform taps, typing, scrolling, and navigation.</string>
+</resources>
